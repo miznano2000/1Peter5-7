@@ -1,0 +1,3 @@
+Hello,github!
+when you finish to write a text file,push control + z!
+Thank you.
